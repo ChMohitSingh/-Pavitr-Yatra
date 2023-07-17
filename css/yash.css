@@ -75,7 +75,7 @@ background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, F
       justify-content:center;
   }
  .yas{
-    background-image: url(./WhatsApp\ Image\ 2022-07-11\ at\ 7.52.24\ PM.jpeg);
+    background-image: url("./G3.jpg");
     width: 1500px;
     height: 90vh;
     background-repeat: no-repeat;
