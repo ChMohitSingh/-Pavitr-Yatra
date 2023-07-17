@@ -10,7 +10,7 @@ body {
 	font-family: Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
-    background-color: rgba(26,32,44,var(--bg-opacity));
+    /*background-color: rgba(26,32,44,var(--bg-opacity));*/
 	/*background-color: #1a202c;*/
 	background-image: url("./images/G3.jpg");
 
