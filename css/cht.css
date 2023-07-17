@@ -11,7 +11,8 @@ body {
 	font-size: 16px;
 	line-height: 1.5;
     background-color: rgba(26,32,44,var(--bg-opacity));
-	background-color: #1a202c;
+	/*background-color: #1a202c;*/
+	background-image: url("./images/G3.jpg");
 
 }
 
@@ -23,7 +24,7 @@ header {
 	/*background-color: #1a202c;*/
 
 	text-align: center;
-	background-image: url("./images/G3.jpg"); 
+	 
 
 }
 
